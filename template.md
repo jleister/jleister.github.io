@@ -1,7 +1,16 @@
 ---
-title: Home
+title: Old template
 layout: home
 ---
+I am using this as a test bed of sorts
+
+'''mermaid
+graph TD;
+    a-->b;
+    a-->c;
+    b-->d;
+    c-->d;
+'''
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
